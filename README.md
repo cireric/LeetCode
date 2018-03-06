@@ -674,5 +674,5 @@ I have solved **0 / 668** problems while **124** problems are still locked.
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [JavaScript]() | [Explanation]() | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [JavaScript]() | | Hard |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript]() | | Medium |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript]() | | Medium |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript]() | [Explanation]() | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](https://github.com/cireric/LeetCode/blob/master/Algorithms/0002.%20Add%20Two%20Numbers/addTwoNumbers.js) | [Explanation](https://github.com/cireric/LeetCode/tree/master/Algorithms/0002.%20Add%20Two%20Numbers) | Medium |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](https://github.com/cireric/LeetCode/blob/master/Algorithms/0001.%20Two%20Sum/twoSum.js) | [Explanation](https://github.com/cireric/LeetCode/tree/master/Algorithms/0001.%20Two%20Sum) | Easy |
